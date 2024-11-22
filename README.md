@@ -17,4 +17,5 @@
 ✍️ Daha Fazla Bilgi
 📚 Yazılım geliştirme yaşam döngüsü ve modelleri hakkında daha fazla bilgi edinmek için Medium üzerindeki makalemi okuyabilirsiniz:
 
-👉 Bu yazımda SDLC sürecinden bahsedeceğim 🌐
+👉 MEDİUM 🌐
+https://medium.com/@sultansrzybk/bu-yaz%C4%B1mda-sdlc-s%C3%BCrecinden-bahsedecegim-ayn%C4%B1-5aee08c6923f
